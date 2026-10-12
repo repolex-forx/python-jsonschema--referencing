@@ -1,0 +1,11 @@
+{
+  "org": "python-jsonschema",
+  "repo": "referencing",
+  "versions": [
+    {
+      "commit": "40be109b70dddced5bd1c1ee44c1a71301c120cd",
+      "tag": "",
+      "parsed_at": "2026-10-12T21:33:08.549476+00:00"
+    }
+  ]
+}
